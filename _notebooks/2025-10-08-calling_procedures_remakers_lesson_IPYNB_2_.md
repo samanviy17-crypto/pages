@@ -9,6 +9,7 @@ lesson_type: lesson
 toc: True
 codemirror: True
 challenge_submit: True
+assignment: True
 comments: False
 title: 3.12 Calling Procedures
 description: 3.12 Calling Procedures
@@ -116,10 +117,10 @@ print_receipt("Game Controller", 60.0)
 #### Homework Hack (Code Runner Challenge)
 Task: Refactor the messy code below.
 
-1. Create a helper procedure is_passing(score) that returns True if score >= 70, and False otherwise.
-2. Create an outer procedure evaluate_student(name, score) that calls is_passing(score).
-3. If passing, print "| Status: Passed". Otherwise, print "| Status: Needs Review".
-4. Call evaluate_student twice with different values.
+- Create a helper procedure is_passing(score) that returns True if score >= 70, and False otherwise.
+- Create an outer procedure evaluate_student(name, score) that calls is_passing(score).
+- If passing, print "| Status: Passed". Otherwise, print "| Status: Needs Review".
+- Call evaluate_student twice with different values.
 
 {% capture homework_challenge %}
 Create a helper procedure `is_passing(score)` and an outer procedure `evaluate_student(name, score)` that calls it twice with different values.
@@ -144,9 +145,9 @@ Classroom Rubric
 - 0.3 Helper Calling Logic: Calls is_passing inside evaluate_student to handle the conditional check.
 - 0.2 Execution & Outputs: Calls the outer procedure twice with different inputs and produces correct status outputs.
 #### Quick Validation Checklist
-[ ] Present: %%python and UI_RUNNER headers in code blocks.
-[ ] Present: Helper procedure called inside the main procedure.
-[ ] Absent: Hardcoded repetitive logic or global variables outside of procedures.
+- [ ] Present: `%%python` and `UI_RUNNER` headers in code blocks.
+- [ ] Present: Helper procedure called inside the main procedure.
+- [ ] Absent: Hardcoded repetitive logic or global variables outside of procedures.
 
 #### 5. Lesson Revisions & Feedback Evidence
 **Feedback Received:** Peer reviewers noted that the original lesson was dense, taking over 5 minutes to read, and lacked interactive execution elements on the page.
@@ -155,109 +156,69 @@ Classroom Rubric
 
 By Joan Kim, Samanvi Yachareni, Ainsley Albert
 
-<div class="lesson-submission-widget" aria-label="Assignment submission panel">
-  <style>
-    .lesson-submission-widget {
-      margin-top: 28px;
-      background: #0a0d11;
-      border: 2px solid #18a7e0;
-      border-radius: 22px;
-      padding: 28px 20px 20px;
-      box-sizing: border-box;
+<style>
+  .assignment-submission {
+    margin-top: 28px !important;
+    padding: 28px 20px 20px !important;
+    background: #0a0d11 !important;
+    border: 2px solid #18a7e0 !important;
+    border-radius: 22px !important;
+    color: #f3f4f6 !important;
+  }
+
+  .assignment-submission h3 {
+    color: #f3f4f6 !important;
+    font-size: clamp(2rem, 2vw, 2.7rem) !important;
+    margin-bottom: 26px !important;
+  }
+
+  .assignment-submission-icon {
+    color: #27b9ec !important;
+  }
+
+  .submission-options {
+    gap: 18px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .submission-tab {
+    min-width: 220px;
+    padding: 14px 22px !important;
+    background: rgba(16, 20, 32, 0.9) !important;
+    border: 2px solid #1fb3ea !important;
+    border-radius: 14px !important;
+    color: #f3f4f6 !important;
+    font-size: 1.05rem !important;
+    font-weight: 600 !important;
+  }
+
+  .submission-tab:hover,
+  .submission-tab.active {
+    background: #101420 !important;
+    border-color: #4dc9f4 !important;
+    color: #ffffff !important;
+  }
+
+  .assignment-submission .form-group label {
+    color: #f3f4f6 !important;
+  }
+
+  .assignment-submission .form-group input,
+  .assignment-submission .form-group textarea,
+  .assignment-submission .file-upload-area {
+    background: #101420 !important;
+    border-color: #31536a !important;
+    color: #f3f4f6 !important;
+  }
+
+  @media (max-width: 700px) {
+    .assignment-submission {
+      padding: 22px 14px 16px !important;
+    }
+
+    .submission-tab {
       width: 100%;
-      max-width: 100%;
-      color: #f3f4f6;
-      font-family: "Segoe UI", sans-serif;
+      min-width: 0;
     }
-
-    .submission-header {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      font-size: clamp(2rem, 2vw, 2.7rem);
-      font-weight: 700;
-      line-height: 1.2;
-      margin: 0 0 26px;
-      color: #f3f4f6;
-    }
-
-    .submission-header .icon {
-      color: #27b9ec;
-      font-size: 1.05em;
-      transform: translateY(-2px);
-    }
-
-    .submission-actions {
-      display: flex;
-      gap: 18px;
-      flex-wrap: wrap;
-    }
-
-    .submission-option {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      min-width: 220px;
-      padding: 14px 22px;
-      border: 2px solid #1fb3ea;
-      border-radius: 14px;
-      background: rgba(16, 20, 32, 0.9);
-      color: #f3f4f6;
-      font-size: 1.05rem;
-      font-weight: 600;
-      cursor: pointer;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
-      box-shadow: inset 0 0 0 1px rgba(27, 185, 236, 0.18);
-    }
-
-    .submission-option:hover {
-      transform: translateY(-1px);
-      border-color: #4dc9f4;
-      box-shadow: 0 0 0 2px rgba(77, 201, 244, 0.12);
-    }
-
-    .submission-option .mini-icon {
-      font-size: 1.2rem;
-      color: #dfeaf0;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    @media (max-width: 700px) {
-      .lesson-submission-widget {
-        padding: 22px 14px 16px;
-      }
-
-      .submission-header {
-        font-size: 1.7rem;
-      }
-
-      .submission-actions {
-        flex-direction: column;
-      }
-
-      .submission-option {
-        width: 100%;
-        min-width: 0;
-      }
-    }
-  </style>
-
-  <div class="submission-header">
-    <span class="icon">↑</span>
-    <span>Submit Assignment</span>
-  </div>
-
-  <div class="submission-actions">
-    <button class="submission-option" type="button" aria-label="Link submission">
-      <span class="mini-icon">🔗</span>
-      <span>Link Submission</span>
-    </button>
-
-    <button class="submission-option" type="button" aria-label="File upload">
-      <span class="mini-icon">📁</span>
-      <span>File Upload</span>
-    </button>
-  </div>
-</div>
+  }
+</style>
