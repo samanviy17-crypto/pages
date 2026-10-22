@@ -8,6 +8,8 @@ permalink: /capstone/powaynec-2026-2027/
 year: "2026-2027"
 ---
 
+{% assign pnec_data = site.data.pnec_capstone %}
+
 <div class="ocs__stack ocs__stack--wide">
   <header class="ocs__card">
     <p class="ocs__badge">CSP 2026–2027 · Community capstone</p>
@@ -25,10 +27,13 @@ year: "2026-2027"
     <p class="ocs__badge">Plan · Track · Review</p>
     <h2 id="team-kanban-board">Team Kanban Board</h2>
     <p>Follow our team's actual issues, assignments, and progress on GitHub.</p>
+    {% if pnec_data.Board %}
+    {% include ocs_kanban_board.html url=pnec_data.Board.url filter=pnec_data.Board.filter title=pnec_data.Board.title %}
+    {% endif %}
     <div class="ocs__links">
-      <a class="ocs__btn accent fill" href="https://github.com/users/samanviy17-crypto/projects/1/views/1" target="_blank" rel="noopener noreferrer">Open the PNEC Kanban Board ↗</a>
       <a href="https://github.com/samanviy17-crypto/team-portfolio" target="_blank" rel="noopener noreferrer">Browse the team repository</a>
     </div>
+    <p class="ocs__text">The shared OCS component provides the board link and its availability message. Live cards, filters, and card metadata are unavailable for this personal board; no priorities or topics are inferred.</p>
     <p class="ocs__callout">This personal GitHub Projects board opens on GitHub. GitHub blocks embedded frames, and its personal-board cards require authentication through the API, so live cards are not displayed here. GitHub controls which items each visitor can view.</p>
     <p class="ocs__callout">Supported alternatives are this direct board link or an approved public, organization-owned project using the existing OCS board component. Moving a board or creating a credentialed server integration requires a separate decision; no board settings were changed.</p>
   </section>
