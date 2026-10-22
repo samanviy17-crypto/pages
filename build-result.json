@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "command": "make -o clean build PYTHON=/Users/samanviyachareni/pages/venv/bin/python3",
+  "exit_code": 0,
+  "jekyll_seconds": 89.994,
+  "upstream_base": "97d3d9451456e7b43eb0cf0fa4d284011be7e8bc",
+  "stylesheets_without_legacy_pnec_rules": 18,
+  "limitation": "Only the global stop/clean prerequisite was skipped in the fresh worktree; build prerequisites and Jekyll clean/build ran. Existing unrelated deprecation warnings remain."
+}

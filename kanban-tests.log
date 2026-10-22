@@ -1,0 +1,33 @@
+✔ statuses from different boards land on the shared stages, and non-work columns are hidden (1.728584ms)
+✔ the column names in OCS's issue lifecycle land on their stages (0.099458ms)
+✔ blocked or waiting work stays in progress and released work is done, instead of disappearing (0.075375ms)
+✔ board addresses become API paths; anything that is not a GitHub project is refused (1.349ms)
+✔ fields are found by name in any case, and a filter the board lacks is left out (0.2205ms)
+✔ a board keeps its work cards with links, groups, people and shipped dates (0.548125ms)
+✔ a done card without a Shipped date uses the day its issue closed (0.103042ms)
+✔ a card links only to github.com; any other address opens it on the board instead (0.087667ms)
+✔ cards with no status get a No status column, open unless the board has its own Backlog (0.173958ms)
+✔ a status the stages don't know keeps a column of its own name, in the board's order (0.170959ms)
+✔ only filter options that have cards become buttons (0.111625ms)
+✔ a board that follows OCS's lifecycle keeps its own name for the Parking Lot, behind the toggle (0.071917ms)
+✔ when two of a board's columns are both backlog, the shared column is just "Backlog" (0.07275ms)
+✔ a card counts the boxes in its checklist; a card without one has none (0.122292ms)
+✔ a card lists its linked pull requests as merged, open, draft or closed (0.157375ms)
+✔ without a filter there are no groups to choose from (0.064458ms)
+✔ a team filter shows that team's cards plus the cards the whole team shares (0.087875ms)
+✔ the done column lists the most recently shipped work first; other columns keep the board's order (15.823834ms)
+✔ a refresh reads the project, its fields and every page of items (24.488625ms)
+✔ a refresh within a day reuses the project and fields and reads only the items (0.849833ms)
+✔ item pages stop after five (0.521375ms)
+✔ GitHub errors are told apart: private or missing, rate limited, no answer (0.51825ms)
+✔ a saved board is fresh for ten minutes, then stale, and blocked until a rate limit resets (0.071ms)
+✔ saved copies survive a round trip, and blocked or broken storage reads as nothing (0.15425ms)
+✔ Area filters and Priority and Topic values survive normalization and fetching (0.294625ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 114.760625

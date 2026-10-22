@@ -1,0 +1,296 @@
+{
+  "status": "PASS",
+  "layouts": [
+    {
+      "width": 320,
+      "scroll": 320,
+      "columns": "213px",
+      "text": "rgb(240, 240, 240)",
+      "background": "color(srgb 0.207255 0.207255 0.207255)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 213,
+      "theme": "Site Default"
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "columns": "283px",
+      "text": "rgb(240, 240, 240)",
+      "background": "color(srgb 0.207255 0.207255 0.207255)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 283,
+      "theme": "Site Default"
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "columns": "661px",
+      "text": "rgb(240, 240, 240)",
+      "background": "color(srgb 0.207255 0.207255 0.207255)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 661,
+      "theme": "Site Default"
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "columns": "448px 448px",
+      "text": "rgb(240, 240, 240)",
+      "background": "color(srgb 0.207255 0.207255 0.207255)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 448,
+      "theme": "Site Default"
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "columns": "656px 656px",
+      "text": "rgb(240, 240, 240)",
+      "background": "color(srgb 0.207255 0.207255 0.207255)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 656,
+      "theme": "Site Default"
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "columns": "213px",
+      "text": "rgb(255, 128, 170)",
+      "background": "color(srgb 0.906863 0.881961 0.890196)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 213,
+      "theme": "Light"
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "columns": "283px",
+      "text": "rgb(255, 128, 170)",
+      "background": "color(srgb 0.906863 0.881961 0.890196)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 283,
+      "theme": "Light"
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "columns": "661px",
+      "text": "rgb(255, 128, 170)",
+      "background": "color(srgb 0.906863 0.881961 0.890196)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 661,
+      "theme": "Light"
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "columns": "448px 448px",
+      "text": "rgb(255, 128, 170)",
+      "background": "color(srgb 0.906863 0.881961 0.890196)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 448,
+      "theme": "Light"
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "columns": "656px 656px",
+      "text": "rgb(255, 128, 170)",
+      "background": "color(srgb 0.906863 0.881961 0.890196)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 656,
+      "theme": "Light"
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "columns": "213px",
+      "text": "rgb(230, 238, 248)",
+      "background": "color(srgb 0.179216 0.206863 0.26098)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 213,
+      "theme": "Midnight"
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "columns": "283px",
+      "text": "rgb(230, 238, 248)",
+      "background": "color(srgb 0.179216 0.206863 0.26098)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 283,
+      "theme": "Midnight"
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "columns": "661px",
+      "text": "rgb(230, 238, 248)",
+      "background": "color(srgb 0.179216 0.206863 0.26098)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 661,
+      "theme": "Midnight"
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "columns": "448px 448px",
+      "text": "rgb(230, 238, 248)",
+      "background": "color(srgb 0.179216 0.206863 0.26098)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 448,
+      "theme": "Midnight"
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "columns": "656px 656px",
+      "text": "rgb(230, 238, 248)",
+      "background": "color(srgb 0.179216 0.206863 0.26098)",
+      "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial",
+      "fontSize": "14px",
+      "cardWidth": 656,
+      "theme": "Midnight"
+    }
+  ],
+  "links": [
+    {
+      "href": "#team-kanban-board",
+      "url": "http://127.0.0.1:8100/capstone/powaynec-2026-2027/#team-kanban-board"
+    },
+    {
+      "href": "#proposed-improvements",
+      "url": "http://127.0.0.1:8100/capstone/powaynec-2026-2027/#proposed-improvements"
+    },
+    {
+      "href": "#team-and-review",
+      "url": "http://127.0.0.1:8100/capstone/powaynec-2026-2027/#team-and-review"
+    },
+    {
+      "href": "#delivery-lifecycle",
+      "url": "http://127.0.0.1:8100/capstone/powaynec-2026-2027/#delivery-lifecycle"
+    },
+    {
+      "href": "https://github.com/users/samanviy17-crypto/projects/1/views/1",
+      "url": "https://github.com/users/samanviy17-crypto/projects/1/views/1"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/3",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/3"
+    },
+    {
+      "href": "https://pnec.opencodingsociety.com",
+      "url": "https://pnec.opencodingsociety.com/"
+    },
+    {
+      "href": "/capstone/powaynec/",
+      "url": "http://127.0.0.1:8100/capstone/powaynec/"
+    },
+    {
+      "href": "https://github.com/whitelunarium/Beasts_FrontEnd",
+      "url": "https://github.com/whitelunarium/Beasts_FrontEnd"
+    },
+    {
+      "href": "https://github.com/whitelunarium/Beasts_Flask",
+      "url": "https://github.com/whitelunarium/Beasts_Flask"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/42",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/42"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/31",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/31"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/34",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/34"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/1",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/1"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/5",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/5"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/9",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/9"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/42",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/42"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/14",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/14"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/8",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/8"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/11",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/11"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/10",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/10"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/25",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/25"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/43",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/43"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/44",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/44"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/3",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/3"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/buttons",
+      "url": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/buttons"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/grids",
+      "url": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/grids"
+    }
+  ],
+  "static_resource_http_failures": [],
+  "existing_page_shell_api_errors": [
+    {
+      "url": "http://127.0.0.1:8100/capstone/powaynec-2026-2027/undefined/api/id",
+      "status": 404
+    }
+  ],
+  "theme_method": "Actual SitePreferences.applyPreferences with Site Default, Light, Midnight presets",
+  "microblog": "Keyboard open/close only; empty GET fixture, external requests blocked; production posting/auth/persistence not tested",
+  "kanban": "Actual shared include: personal-board notice visible, mount hidden, no fake cards, correct link, no GitHub API requests",
+  "github_api_requests": [],
+  "javascript_disabled_fallback": "PASS: correct visible link and noscript notice"
+}

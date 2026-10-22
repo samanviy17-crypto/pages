@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "combined_page_matches_validated_stack": true,
+  "partial_matches_corrected_commit_and_upstream": true,
+  "partial_blob": "926b06441c9e6a75b6a0aa5a9a56b2576c030b1e",
+  "upstream_base": "97d3d9451456e7b43eb0cf0fa4d284011be7e8bc",
+  "nine_proposals_and_acceptance_checks": true,
+  "five_lifecycle_stages": true,
+  "microblog_permalink_links_team_preserved": true,
+  "custom_import_disabled": true
+}
