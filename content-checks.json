@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "proposals_unchanged": 9,
+  "acceptance_checks": 9,
+  "lifecycle_stages": 5,
+  "microblog": true,
+  "permalink_preserved": true,
+  "inline_css": false,
+  "upstream_base": "61abda363e67c1532cbf23c0f60cdef5701c7fbc"
+}

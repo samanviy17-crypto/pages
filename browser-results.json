@@ -1,0 +1,277 @@
+{
+  "status": "PASS",
+  "layouts": [
+    {
+      "width": 320,
+      "scroll": 320,
+      "gridColumns": "264px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(230, 238, 248)",
+      "background": "rgb(11, 18, 32)",
+      "cardWidth": 264,
+      "theme": "dark",
+      "board_button": {
+        "text": "rgb(214, 222, 233)",
+        "background": "oklab(0.31271 -0.0130103 -0.0726844)"
+      }
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "gridColumns": "334px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(230, 238, 248)",
+      "background": "rgb(11, 18, 32)",
+      "cardWidth": 334,
+      "theme": "dark",
+      "board_button": {
+        "text": "rgb(11, 18, 32)",
+        "background": "rgb(96, 165, 250)"
+      }
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "gridColumns": "712px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(230, 238, 248)",
+      "background": "rgb(11, 18, 32)",
+      "cardWidth": 712,
+      "theme": "dark",
+      "board_button": {
+        "text": "rgb(11, 18, 32)",
+        "background": "rgb(96, 165, 250)"
+      }
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "gridColumns": "473.5px 473.5px",
+      "fontSize": "18px",
+      "headingSize": "28.44px",
+      "text": "rgb(230, 238, 248)",
+      "background": "rgb(11, 18, 32)",
+      "cardWidth": 473.5,
+      "theme": "dark",
+      "board_button": {
+        "text": "rgb(11, 18, 32)",
+        "background": "rgb(96, 165, 250)"
+      }
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "gridColumns": "681.5px 681.5px",
+      "fontSize": "18px",
+      "headingSize": "32.6px",
+      "text": "rgb(230, 238, 248)",
+      "background": "rgb(11, 18, 32)",
+      "cardWidth": 681.5,
+      "theme": "dark",
+      "board_button": {
+        "text": "rgb(11, 18, 32)",
+        "background": "rgb(96, 165, 250)"
+      }
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "gridColumns": "264px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(23, 32, 51)",
+      "background": "rgb(255, 255, 255)",
+      "cardWidth": 264,
+      "theme": "light",
+      "board_button": {
+        "text": "rgb(245, 246, 246)",
+        "background": "rgb(32, 81, 217)"
+      }
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "gridColumns": "334px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(23, 32, 51)",
+      "background": "rgb(255, 255, 255)",
+      "cardWidth": 334,
+      "theme": "light",
+      "board_button": {
+        "text": "rgb(255, 255, 255)",
+        "background": "rgb(29, 78, 216)"
+      }
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "gridColumns": "712px",
+      "fontSize": "18px",
+      "headingSize": "26px",
+      "text": "rgb(23, 32, 51)",
+      "background": "rgb(255, 255, 255)",
+      "cardWidth": 712,
+      "theme": "light",
+      "board_button": {
+        "text": "rgb(255, 255, 255)",
+        "background": "rgb(29, 78, 216)"
+      }
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "gridColumns": "473.5px 473.5px",
+      "fontSize": "18px",
+      "headingSize": "28.44px",
+      "text": "rgb(23, 32, 51)",
+      "background": "rgb(255, 255, 255)",
+      "cardWidth": 473.5,
+      "theme": "light",
+      "board_button": {
+        "text": "rgb(255, 255, 255)",
+        "background": "rgb(29, 78, 216)"
+      }
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "gridColumns": "681.5px 681.5px",
+      "fontSize": "18px",
+      "headingSize": "32.6px",
+      "text": "rgb(23, 32, 51)",
+      "background": "rgb(255, 255, 255)",
+      "cardWidth": 681.5,
+      "theme": "light",
+      "board_button": {
+        "text": "rgb(255, 255, 255)",
+        "background": "rgb(29, 78, 216)"
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "#team-kanban-board",
+      "url": "http://127.0.0.1:8097/capstone/powaynec-2026-2027/#team-kanban-board"
+    },
+    {
+      "href": "#proposed-improvements",
+      "url": "http://127.0.0.1:8097/capstone/powaynec-2026-2027/#proposed-improvements"
+    },
+    {
+      "href": "#team-and-review",
+      "url": "http://127.0.0.1:8097/capstone/powaynec-2026-2027/#team-and-review"
+    },
+    {
+      "href": "#delivery-lifecycle",
+      "url": "http://127.0.0.1:8097/capstone/powaynec-2026-2027/#delivery-lifecycle"
+    },
+    {
+      "href": "https://github.com/users/samanviy17-crypto/projects/1/views/1",
+      "url": "https://github.com/users/samanviy17-crypto/projects/1/views/1"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/3",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/3"
+    },
+    {
+      "href": "https://pnec.opencodingsociety.com",
+      "url": "https://pnec.opencodingsociety.com/"
+    },
+    {
+      "href": "/capstone/powaynec/",
+      "url": "http://127.0.0.1:8097/capstone/powaynec/"
+    },
+    {
+      "href": "https://github.com/whitelunarium/Beasts_FrontEnd",
+      "url": "https://github.com/whitelunarium/Beasts_FrontEnd"
+    },
+    {
+      "href": "https://github.com/whitelunarium/Beasts_Flask",
+      "url": "https://github.com/whitelunarium/Beasts_Flask"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/42",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/42"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/31",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/31"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/34",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/34"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/1",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/1"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/5",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/5"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/9",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/9"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/42",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/42"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/14",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/14"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/8",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/8"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/11",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/11"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/10",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/10"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/25",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/25"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/43",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/43"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/44",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/44"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/team-portfolio/issues/3",
+      "url": "https://github.com/samanviy17-crypto/team-portfolio/issues/3"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/buttons",
+      "url": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/buttons"
+    },
+    {
+      "href": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/grids",
+      "url": "https://github.com/samanviy17-crypto/pages/tree/main/_sass/open-coding/elements/grids"
+    }
+  ],
+  "static_resource_http_failures": [],
+  "existing_page_shell_api_errors": [
+    {
+      "url": "http://127.0.0.1:8097/capstone/powaynec-2026-2027/undefined/api/id",
+      "status": 404
+    }
+  ],
+  "external_services": "blocked; Microblog GET uses empty synthetic fixture, no posting or persistence verified; no live board simulated"
+}

@@ -1,0 +1,1121 @@
+📋 Generating Makefile for games/astronaut-platformer-game (from template)
+Building: games/astronaut-platformer-game
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ astronaut-platformer-game built successfully
+   Source: _projects/astronaut-platformer-game/
+   JavaScript: assets/js/projects/astronaut-platformer-game/
+   CSS/SASS: assets/css/projects/astronaut-platformer-game/ & _sass/projects/astronaut-platformer-game/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/castle-game (from template)
+Building: games/castle-game
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ castle-game built successfully
+   Source: _projects/castle-game/
+   JavaScript: assets/js/projects/castle-game/
+   CSS/SASS: assets/css/projects/castle-game/ & _sass/projects/castle-game/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/cs-pathway (from template)
+Building: games/cs-pathway
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ cs-pathway built successfully
+   Source: _projects/cs-pathway/
+   JavaScript: assets/js/projects/cs-pathway/
+   CSS/SASS: assets/css/projects/cs-pathway/ & _sass/projects/cs-pathway/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/escape-the-tower (from template)
+Building: games/escape-the-tower
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ escape-the-tower built successfully
+   Source: _projects/escape-the-tower/
+   JavaScript: assets/js/projects/escape-the-tower/
+   CSS/SASS: assets/css/projects/escape-the-tower/ & _sass/projects/escape-the-tower/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/gamify (from template)
+Building: games/gamify
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ gamify built successfully
+   Source: _projects/gamify/
+   JavaScript: assets/js/projects/gamify/
+   CSS/SASS: assets/css/projects/gamify/ & _sass/projects/gamify/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/heist-exe (from template)
+Building: games/heist-exe
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ heist-exe built successfully
+   Source: _projects/heist-exe/
+   JavaScript: assets/js/projects/heist-exe/
+   CSS/SASS: assets/css/projects/heist-exe/ & _sass/projects/heist-exe/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/kirby-minigames (from template)
+Building: games/kirby-minigames
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ kirby-minigames built successfully
+   Source: _projects/kirby-minigames/
+   JavaScript: assets/js/projects/kirby-minigames/
+   CSS/SASS: assets/css/projects/kirby-minigames/ & _sass/projects/kirby-minigames/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/mansionGame (from template)
+Building: games/mansionGame
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ mansionGame built successfully
+   Source: _projects/mansionGame/
+   JavaScript: assets/js/projects/mansionGame/
+   CSS/SASS: assets/css/projects/mansionGame/ & _sass/projects/mansionGame/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/nod-game (from template)
+Building: games/nod-game
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ nod-game built successfully
+   Source: _projects/nod-game/
+   JavaScript: assets/js/projects/nod-game/
+   CSS/SASS: assets/css/projects/nod-game/ & _sass/projects/nod-game/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/pirate-hunt (from template)
+Building: games/pirate-hunt
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ pirate-hunt built successfully
+   Source: _projects/pirate-hunt/
+   JavaScript: assets/js/projects/pirate-hunt/
+   CSS/SASS: assets/css/projects/pirate-hunt/ & _sass/projects/pirate-hunt/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/platformer (from template)
+Building: games/platformer
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ platformer built successfully
+   Source: _projects/platformer/
+   JavaScript: assets/js/projects/platformer/
+   CSS/SASS: assets/css/projects/platformer/ & _sass/projects/platformer/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/red-riding (from template)
+Building: games/red-riding
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ red-riding built successfully
+   Source: _projects/red-riding/
+   JavaScript: assets/js/projects/red-riding/
+   CSS/SASS: assets/css/projects/red-riding/ & _sass/projects/red-riding/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/spline-barriers (from template)
+Building: games/spline-barriers
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ spline-barriers built successfully
+   Source: _projects/spline-barriers/
+   JavaScript: assets/js/projects/spline-barriers/
+   CSS/SASS: assets/css/projects/spline-barriers/ & _sass/projects/spline-barriers/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/tag-game-multiplayer (from template)
+Building: games/tag-game-multiplayer
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ tag-game-multiplayer built successfully
+   Source: _projects/tag-game-multiplayer/
+   JavaScript: assets/js/projects/tag-game-multiplayer/
+   CSS/SASS: assets/css/projects/tag-game-multiplayer/ & _sass/projects/tag-game-multiplayer/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/voidstriker (from template)
+Building: games/voidstriker
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ voidstriker built successfully
+   Source: _projects/voidstriker/
+   JavaScript: assets/js/projects/voidstriker/
+   CSS/SASS: assets/css/projects/voidstriker/ & _sass/projects/voidstriker/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for games/racing-game (from template)
+Building: games/racing-game
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ racing-game built successfully
+   Source: _projects/racing-game/
+   JavaScript: assets/js/projects/racing-game/
+   CSS/SASS: assets/css/projects/racing-game/ & _sass/projects/racing-game/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/ap-frq-simulator (from template)
+Building: lessons/ap-frq-simulator
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ ap-frq-simulator built successfully
+   Source: _projects/ap-frq-simulator/
+   JavaScript: assets/js/projects/ap-frq-simulator/
+   CSS/SASS: assets/css/projects/ap-frq-simulator/ & _sass/projects/ap-frq-simulator/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/cpt-concepts (from template)
+Building: lessons/cpt-concepts
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ cpt-concepts built successfully
+   Source: _projects/cpt-concepts/
+   JavaScript: assets/js/projects/cpt-concepts/
+   CSS/SASS: assets/css/projects/cpt-concepts/ & _sass/projects/cpt-concepts/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/flask (from template)
+Building: lessons/flask
+Notebooks: 5 converted, 0 unchanged, 0 failed
+✅ flask built successfully
+   Source: _projects/flask/
+   JavaScript: assets/js/projects/flask/
+   CSS/SASS: assets/css/projects/flask/ & _sass/projects/flask/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/game-lessons (from template)
+Building: lessons/game-lessons
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ game-lessons built successfully
+   Source: _projects/game-lessons/
+   JavaScript: assets/js/projects/game-lessons/
+   CSS/SASS: assets/css/projects/game-lessons/ & _sass/projects/game-lessons/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/parallelAndComputinglesson (from template)
+Building: lessons/parallelAndComputinglesson
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ parallelAndComputinglesson built successfully
+   Source: _projects/parallelAndComputinglesson/
+   JavaScript: assets/js/projects/parallelAndComputinglesson/
+   CSS/SASS: assets/css/projects/parallelAndComputinglesson/ & _sass/projects/parallelAndComputinglesson/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/robot-logic-game (from template)
+Building: lessons/robot-logic-game
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ robot-logic-game built successfully
+   Source: _projects/robot-logic-game/
+   JavaScript: assets/js/projects/robot-logic-game/
+   CSS/SASS: assets/css/projects/robot-logic-game/ & _sass/projects/robot-logic-game/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/sass (from template)
+Building: lessons/sass
+Notebooks: 4 converted, 0 unchanged, 0 failed
+✅ sass built successfully
+   Source: _projects/sass/
+   JavaScript: assets/js/projects/sass/
+   CSS/SASS: assets/css/projects/sass/ & _sass/projects/sass/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/python (from template)
+Building: lessons/python
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+Notebooks: 15 converted, 0 unchanged, 0 failed
+✅ python built successfully
+   Source: _projects/python/
+   JavaScript: assets/js/projects/python/
+   CSS/SASS: assets/css/projects/python/ & _sass/projects/python/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/javascript (from template)
+Building: lessons/javascript
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+Notebooks: 13 converted, 0 unchanged, 0 failed
+✅ javascript built successfully
+   Source: _projects/javascript/
+   JavaScript: assets/js/projects/javascript/
+   CSS/SASS: assets/css/projects/javascript/ & _sass/projects/javascript/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/java (from template)
+Building: lessons/java
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+Notebooks: 67 converted, 0 unchanged, 0 failed
+✅ java built successfully
+   Source: _projects/java/
+   JavaScript: assets/js/projects/java/
+   CSS/SASS: assets/css/projects/java/ & _sass/projects/java/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/cs112 (from template)
+Building: lessons/cs112
+Notebooks: 36 converted, 0 unchanged, 0 failed
+✅ cs112 built successfully
+   Source: _projects/cs112/
+   JavaScript: assets/js/projects/cs112/
+   CSS/SASS: assets/css/projects/cs112/ & _sass/projects/cs112/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/cs113 (from template)
+Building: lessons/cs113
+Notebooks: 30 converted, 0 unchanged, 0 failed
+✅ cs113 built successfully
+   Source: _projects/cs113/
+   JavaScript: assets/js/projects/cs113/
+   CSS/SASS: assets/css/projects/cs113/ & _sass/projects/cs113/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/csa1 (from template)
+Building: lessons/csa1
+Notebooks: 9 converted, 0 unchanged, 0 failed
+✅ csa1 built successfully
+   Source: _projects/csa1/
+   JavaScript: assets/js/projects/csa1/
+   CSS/SASS: assets/css/projects/csa1/ & _sass/projects/csa1/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/csa2 (from template)
+Building: lessons/csa2
+Notebooks: 28 converted, 0 unchanged, 0 failed
+✅ csa2 built successfully
+   Source: _projects/csa2/
+   JavaScript: assets/js/projects/csa2/
+   CSS/SASS: assets/css/projects/csa2/ & _sass/projects/csa2/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for lessons/ds2 (from template)
+Building: lessons/ds2
+Notebooks: 8 converted, 0 unchanged, 0 failed
+✅ ds2 built successfully
+   Source: _projects/ds2/
+   JavaScript: assets/js/projects/ds2/
+   CSS/SASS: assets/css/projects/ds2/ & _sass/projects/ds2/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/ai-ab-engine (from template)
+Building: systems/ai-ab-engine
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ ai-ab-engine built successfully
+   Source: _projects/ai-ab-engine/
+   JavaScript: assets/js/projects/ai-ab-engine/
+   CSS/SASS: assets/css/projects/ai-ab-engine/ & _sass/projects/ai-ab-engine/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/calendar (from template)
+Building: systems/calendar
+Notebooks: 0 converted, 0 unchanged, 0 failed
+✅ calendar built successfully
+   Source: _projects/calendar/
+   JavaScript: assets/js/projects/calendar/
+   CSS/SASS: assets/css/projects/calendar/ & _sass/projects/calendar/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/blogs (from template)
+Building: systems/blogs
+Notebooks: 0 converted, 0 unchanged, 0 failed
+✅ blogs built successfully
+   Source: _projects/blogs/
+   JavaScript: assets/js/projects/blogs/
+   CSS/SASS: assets/css/projects/blogs/ & _sass/projects/blogs/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/topics (from template)
+Building: systems/topics
+Notebooks: 0 converted, 0 unchanged, 0 failed
+✅ topics built successfully
+   Source: _projects/topics/
+   JavaScript: assets/js/projects/topics/
+   CSS/SASS: assets/css/projects/topics/ & _sass/projects/topics/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/courses (from template)
+Building: systems/courses
+Notebooks: 0 converted, 0 unchanged, 0 failed
+✅ courses built successfully
+   Source: _projects/courses/
+   JavaScript: assets/js/projects/courses/
+   CSS/SASS: assets/css/projects/courses/ & _sass/projects/courses/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/gamebuilder (from template)
+Building: systems/gamebuilder
+Notebooks: 4 converted, 0 unchanged, 0 failed
+✅ gamebuilder built successfully
+   Source: _projects/gamebuilder/
+   JavaScript: assets/js/projects/gamebuilder/
+   CSS/SASS: assets/css/projects/gamebuilder/ & _sass/projects/gamebuilder/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/auto-generator (from template)
+Building: systems/auto-generator
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ auto-generator built successfully
+   Source: _projects/auto-generator/
+   JavaScript: assets/js/projects/auto-generator/
+   CSS/SASS: assets/css/projects/auto-generator/ & _sass/projects/auto-generator/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/auto-generator-ui (from template)
+Building: systems/auto-generator-ui
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ auto-generator-ui built successfully
+   Source: _projects/auto-generator-ui/
+   JavaScript: assets/js/projects/auto-generator-ui/
+   CSS/SASS: assets/css/projects/auto-generator-ui/ & _sass/projects/auto-generator-ui/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/scraper (from template)
+Building: systems/scraper
+Notebooks: 0 converted, 0 unchanged, 0 failed
+✅ scraper built successfully
+   Source: _projects/scraper/
+   JavaScript: assets/js/projects/scraper/
+   CSS/SASS: assets/css/projects/scraper/ & _sass/projects/scraper/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/student-management-groups (from template)
+Building: systems/student-management-groups
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ student-management-groups built successfully
+   Source: _projects/student-management-groups/
+   JavaScript: assets/js/projects/student-management-groups/
+   CSS/SASS: assets/css/projects/student-management-groups/ & _sass/projects/student-management-groups/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+📋 Generating Makefile for systems/test-project (from template)
+Building: systems/test-project
+Notebooks: 1 converted, 0 unchanged, 0 failed
+✅ test-project built successfully
+   Source: _projects/test-project/
+   JavaScript: assets/js/projects/test-project/
+   CSS/SASS: assets/css/projects/test-project/ & _sass/projects/test-project/
+   Page: _posts/projects/ (triggers Jekyll rebuild)
+Generating dynamic SASS imports...
+✅ Generated 6 SASS imports in _sass/projects/_all.scss
+   @import "calendar/main";
+   @import "courses/main";
+   @import "gamebuilder/main";
+   @import "racing-game/main";
+   @import "test-project/main";
+   @import "topics/main";
+Converting 15 files in parallel...
+
+Converting: Plagiarism-WGU-SGM2-Task1-Ideation-Higher-Level-Education.docx
+
+Converting: Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education.docx
+
+Converting: Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education.docx
+
+Converting: Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education.docx
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image9.png (93,701 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image12.png (18,003 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image9.png (93,701 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagea.png (186,489 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image13.png (357,090 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagea.png (186,489 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imageb.png (436,620 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imageb.png (436,620 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image14.png (256,474 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagec.png (282,599 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imaged.png (120,110 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image15.png (327,478 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagec.png (282,599 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagee.png (69,416 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imaged.png (120,110 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagef.png (245,389 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagee.png (69,416 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image16.png (731,146 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image10.png (278,040 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image17.png (200,020 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagef.png (245,389 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image11.png (127,764 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image18.png (418,238 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image10.png (278,040 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image19.png (322,360 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image11.png (127,764 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image12.png (18,003 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1a.png (323,469 bytes)
+   🔗 Image 1: image9.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image9.png
+   🔗 Image 2: imagea.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagea.png
+   🔗 Image 3: imageb.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imageb.png
+   🔗 Image 4: imagec.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagec.png
+   🔗 Image 5: imaged.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imaged.png
+   🔗 Image 6: imagee.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagee.png
+   🔗 Image 7: imagef.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_imagef.png
+   🔗 Image 8: image10.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image10.png
+   🔗 Image 9: image11.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_image11.png
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image13.png (357,090 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1b.png (115,418 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1c.png (150,024 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image14.png (256,474 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1d.png (120,846 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1e.png (37,108 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image15.png (327,478 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1f.png (34,687 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image20.png (33,806 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image16.png (731,146 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image17.png (200,020 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image18.png (418,238 bytes)
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image19.png (322,360 bytes)
+  Images in markdown: 0
+  Conversion messages: 1 items
+    Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+  Images in markdown: 9
+  Using enhanced front matter from config
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1a.png (323,469 bytes)
+  Created: 2026-10-21-D292_Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education_DOCX_.md
+  Subfolder: D292
+  Images: 9 extracted
+
+Converting: QuestOfCode-WGU-Assessments-E-Learning.docx
+  Using enhanced front matter from config
+✅ Completed: Plagiarism-WGU-SGM2-Task2-Storyboard-Higher-Level-Education.docx
+  Created: 2026-10-21-D292_Plagiarism-WGU-SGM2-Task1-Ideation-Higher-Level-Education_DOCX_.md
+  Subfolder: D292
+  Images: 0 extracted
+
+Converting: QuestOfCode-WGU-Collaborative-E-Learning.docx
+✅ Completed: Plagiarism-WGU-SGM2-Task1-Ideation-Higher-Level-Education.docx
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1b.png (115,418 bytes)
+   🔗 Image 1: image12.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image12.png
+   🔗 Image 2: image13.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image13.png
+   🔗 Image 3: image14.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image14.png
+   🔗 Image 4: image15.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image15.png
+   🔗 Image 5: image16.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image16.png
+   🔗 Image 6: image17.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image17.png
+   🔗 Image 7: image18.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image18.png
+   🔗 Image 8: image19.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image19.png
+   🔗 Image 9: image1a.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1a.png
+   🔗 Image 10: image1b.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1b.png
+   🔗 Image 11: image1c.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1c.png
+   🔗 Image 12: image1d.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1d.png
+   🔗 Image 13: image1e.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1e.png
+   🔗 Image 14: image1f.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image1f.png
+   🔗 Image 15: image20.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_image20.png
+  Conversion messages: 3 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: Date (Style ID: Date)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+  Images in markdown: 0
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1c.png (150,024 bytes)
+  Conversion messages: 1 items
+    Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+  Images in markdown: 15
+  Using enhanced front matter from config
+  Using enhanced front matter from config
+  Extracted: D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1d.png (120,846 bytes)
+  Created: 2026-10-21-D292_Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education_DOCX_.md
+  Subfolder: D292
+  Images: 15 extracted
+
+Converting: QuestOfCode-WGU-Demonstrating-Essential-Concepts.docx
+  Conversion messages: 3 items
+    Unrecognised paragraph style: Compact (Style ID: Compact)
+    Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+    Unrecognised paragraph style: List Bullet (Style ID: ListBullet)
+  Images in markdown: 0
+✅ Completed: Plagiarism-WGU-SGM2-Task4-Test-Plan-Higher-Level-Education.docx
+  Using enhanced front matter from config
+  Created: 2026-10-21-D295_QuestOfCode-WGU-Collaborative-E-Learning_DOCX_.md
+  Subfolder: D295
+  Images: 0 extracted
+
+Converting: QuestOfCode-WGU-Digital-Citizenship.docx
+✅ Completed: QuestOfCode-WGU-Collaborative-E-Learning.docx
+  Created: 2026-10-21-D295_QuestOfCode-WGU-Assessments-E-Learning_DOCX_.md
+  Subfolder: D295
+  Images: 0 extracted
+
+Converting: Design-for-Whole-Child-WGU-E-learning.docx
+✅ Completed: QuestOfCode-WGU-Assessments-E-Learning.docx
+  Extracted: D296_Design-for-Whole-Child-WGU-E-learning_image.png (56,759 bytes)
+  Conversion messages: 4 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: Body Text (Style ID: BodyText)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+    Unrecognised paragraph style: Compact (Style ID: Compact)
+  Images in markdown: 0
+  Extracted: D296_Design-for-Whole-Child-WGU-E-learning_image2.png (88,127 bytes)
+  Using enhanced front matter from config
+  Created: 2026-10-21-D295_QuestOfCode-WGU-Digital-Citizenship_DOCX_.md
+  Subfolder: D295
+  Images: 0 extracted
+
+Converting: Flask-Server-Crash-Course-WGU-E-learning.docx
+✅ Completed: QuestOfCode-WGU-Digital-Citizenship.docx
+  Conversion messages: 19 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: Author (Style ID: Author)
+    Unrecognised paragraph style: Date (Style ID: Date)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+    Unrecognised paragraph style: Source Code (Style ID: SourceCode)
+    Unrecognised run style: CommentTok (Style ID: CommentTok)
+    Unrecognised run style: KeywordTok (Style ID: KeywordTok)
+    Unrecognised run style: NormalTok (Style ID: NormalTok)
+    Unrecognised run style: FunctionTok (Style ID: FunctionTok)
+    Unrecognised run style: OperatorTok (Style ID: OperatorTok)
+    Unrecognised run style: ControlFlowTok (Style ID: ControlFlowTok)
+    Unrecognised run style: StringTok (Style ID: StringTok)
+    Unrecognised run style: DataTypeTok (Style ID: DataTypeTok)
+    Unrecognised run style: BuiltInTok (Style ID: BuiltInTok)
+    Unrecognised run style: VerbatimStringTok (Style ID: VerbatimStringTok)
+    Unrecognised run style: SpecialCharTok (Style ID: SpecialCharTok)
+    Unrecognised run style: AttributeTok (Style ID: AttributeTok)
+    Unrecognised paragraph style: Body Text (Style ID: BodyText)
+    Unrecognised run style: Verbatim Char (Style ID: VerbatimChar)
+  Images in markdown: 0
+  Using enhanced front matter from config
+   🔗 Image 1: image9.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image9.png
+   🔗 Image 2: imagea.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagea.png
+   🔗 Image 3: imageb.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imageb.png
+   🔗 Image 4: imagec.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagec.png
+   🔗 Image 5: imaged.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imaged.png
+   🔗 Image 6: imagee.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagee.png
+   🔗 Image 7: imagef.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_imagef.png
+   🔗 Image 8: image10.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image10.png
+   🔗 Image 9: image11.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image11.png
+   🔗 Image 10: image12.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image12.png
+   🔗 Image 11: image13.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image13.png
+   🔗 Image 12: image14.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image14.png
+   🔗 Image 13: image15.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image15.png
+   🔗 Image 14: image16.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image16.png
+   🔗 Image 15: image17.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image17.png
+   🔗 Image 16: image18.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image18.png
+   🔗 Image 17: image19.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image19.png
+   🔗 Image 18: image1a.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1a.png
+   🔗 Image 19: image1b.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1b.png
+   🔗 Image 20: image1c.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1c.png
+   🔗 Image 21: image1d.png -> /images/docx/D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_image1d.png
+  Conversion messages: 1 items
+    Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+  Images in markdown: 21
+  Created: 2026-10-21-D295_QuestOfCode-WGU-Demonstrating-Essential-Concepts_DOCX_.md
+  Subfolder: D295
+  Images: 0 extracted
+
+Converting: CSA-Period 2-Comp-Sci-Quest-Frontend-Module.docx
+✅ Completed: QuestOfCode-WGU-Demonstrating-Essential-Concepts.docx
+   🔗 Image 1: image.png -> /images/docx/D296_Design-for-Whole-Child-WGU-E-learning_image.png
+   🔗 Image 2: image2.png -> /images/docx/D296_Design-for-Whole-Child-WGU-E-learning_image2.png
+  Conversion messages: 5 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+    Unrecognised paragraph style: Body Text (Style ID: BodyText)
+    Unrecognised paragraph style: Compact (Style ID: Compact)
+    Unrecognised paragraph style: Source Code (Style ID: SourceCode)
+  Images in markdown: 2
+  Using enhanced front matter from config
+  Extracted: D296_Flask-Server-Crash-Course-WGU-E-learning_image.png (181,999 bytes)
+  Created: 2026-10-21-D292_Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education_DOCX_.md
+  Subfolder: D292
+  Images: 21 extracted
+
+Converting: CSA-Period 2-Comp-Sci-Quest-Outline.docx
+✅ Completed: Plagiarism-WGU-SGM2-Task3-Mockup-Higher-Level-Education.docx
+  Using enhanced front matter from config
+  Created: 2026-10-21-D296_Design-for-Whole-Child-WGU-E-learning_DOCX_.md
+  Subfolder: D296
+  Images: 2 extracted
+
+Converting: GameBuilder-Capstone-Report.docx
+✅ Completed: Design-for-Whole-Child-WGU-E-learning.docx
+  Extracted: Quests_CSA-Period 2-Comp-Sci-Quest-Frontend-Module_image1.png (2,244,942 bytes)
+  Extracted: Quests_GameBuilder-Capstone-Report_image.png (66,270 bytes)
+  Images in markdown: 0
+   🔗 Image 1: image.png -> /images/docx/D296_Flask-Server-Crash-Course-WGU-E-learning_image.png
+  Using enhanced front matter from config
+  Conversion messages: 3 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+    Unrecognised paragraph style: Body Text (Style ID: BodyText)
+  Images in markdown: 1
+  Using enhanced front matter from config
+  Extracted: Quests_GameBuilder-Capstone-Report_image2.png (139,022 bytes)
+  Created: 2026-10-21-Quests_CSA-Period 2-Comp-Sci-Quest-Outline_DOCX_.md
+  Subfolder: Quests
+  Images: 0 extracted
+
+Converting: QuestOfCode-AIUsage-Thinkers.docx
+✅ Completed: CSA-Period 2-Comp-Sci-Quest-Outline.docx
+  Created: 2026-10-21-D296_Flask-Server-Crash-Course-WGU-E-learning_DOCX_.md
+  Subfolder: D296
+  Images: 1 extracted
+
+Converting: QuestOfSpook-Game-Development.docx
+✅ Completed: Flask-Server-Crash-Course-WGU-E-learning.docx
+  Extracted: Quests_GameBuilder-Capstone-Report_image3.png (468,252 bytes)
+   🔗 Image 1: image1.png -> /images/docx/Quests_CSA-Period 2-Comp-Sci-Quest-Frontend-Module_image1.png
+  Images in markdown: 1
+  Using enhanced front matter from config
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image2.png (79,452 bytes)
+  Created: 2026-10-21-Quests_CSA-Period 2-Comp-Sci-Quest-Frontend-Module_DOCX_.md
+  Subfolder: Quests
+  Images: 1 extracted
+✅ Completed: CSA-Period 2-Comp-Sci-Quest-Frontend-Module.docx
+  Conversion messages: 6 items
+    Unrecognised paragraph style: Title (Style ID: Title)
+    Unrecognised paragraph style: Author (Style ID: Author)
+    Unrecognised paragraph style: Date (Style ID: Date)
+    Unrecognised paragraph style: First Paragraph (Style ID: FirstParagraph)
+    Unrecognised paragraph style: Body Text (Style ID: BodyText)
+    Unrecognised paragraph style: Compact (Style ID: Compact)
+  Images in markdown: 0
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image3.png (92,991 bytes)
+  Using enhanced front matter from config
+  Created: 2026-10-21-Quests_QuestOfSpook-Game-Development_DOCX_.md
+  Subfolder: Quests
+  Images: 0 extracted
+✅ Completed: QuestOfSpook-Game-Development.docx
+  Extracted: Quests_GameBuilder-Capstone-Report_image4.png (1,222,916 bytes)
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image1.png (96,915 bytes)
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image5.png (92,199 bytes)
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image4.png (97,199 bytes)
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image6.png (80,581 bytes)
+  Extracted: Quests_QuestOfCode-AIUsage-Thinkers_image7.png (97,334 bytes)
+   🔗 Image 1: image2.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image2.png
+   🔗 Image 2: image3.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image3.png
+   🔗 Image 3: image1.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image1.png
+   🔗 Image 4: image5.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image5.png
+   🔗 Image 5: image4.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image4.png
+   🔗 Image 6: image6.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image6.png
+   🔗 Image 7: image7.png -> /images/docx/Quests_QuestOfCode-AIUsage-Thinkers_image7.png
+  Images in markdown: 7
+  Using enhanced front matter from config
+  Created: 2026-10-21-Quests_QuestOfCode-AIUsage-Thinkers_DOCX_.md
+  Subfolder: Quests
+  Images: 7 extracted
+✅ Completed: QuestOfCode-AIUsage-Thinkers.docx
+   🔗 Image 1: image.png -> /images/docx/Quests_GameBuilder-Capstone-Report_image.png
+   🔗 Image 2: image2.png -> /images/docx/Quests_GameBuilder-Capstone-Report_image2.png
+   🔗 Image 3: image3.png -> /images/docx/Quests_GameBuilder-Capstone-Report_image3.png
+   🔗 Image 4: image4.png -> /images/docx/Quests_GameBuilder-Capstone-Report_image4.png
+  Conversion messages: 5 items
+    Unrecognised paragraph style: TOC Heading (Style ID: TOCHeading)
+    Unrecognised paragraph style: toc 1 (Style ID: TOC1)
+    Unrecognised paragraph style: toc 2 (Style ID: TOC2)
+    Unrecognised paragraph style: toc 3 (Style ID: TOC3)
+    Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+  Images in markdown: 4
+  Using enhanced front matter from config
+  Created: 2026-10-21-Quests_GameBuilder-Capstone-Report_DOCX_.md
+  Subfolder: Quests
+  Images: 4 extracted
+✅ Completed: GameBuilder-Capstone-Report.docx
+Converted: 15 documents
+Images: 60 extracted
+/Users/samanviyachareni/pages/venv/lib/python3.14/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+Notebooks: 110 converted, 0 unchanged, 0 failed
+ ------ Splitting multi-course files... -------
+Multi-Course File Splitter
+========================================
+
+Processing multi-course file: _posts/Foundation/2026-07-22-Introduction-to-JavaScript_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/2026-07-22-Introduction-to-JavaScript_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/2026-07-22-Introduction-to-JavaScript_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/2026-07-22-Introduction-to-JavaScript_IPYNB_2__csp.md
+
+Processing multi-course file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2__csp.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2__csa.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2__csh.md
+
+Processing multi-course file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2__csp.md
+✓ Created course-specific file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2__csa.md
+✓ Created course-specific file: _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2__csh.md
+
+Processing multi-course file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2__csp.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2__csa.md
+✓ Created course-specific file: _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2__csh.md
+
+Processing multi-course file: _posts/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_IPYNB_2_.md
+✓ Created content file: _posts/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_IPYNB_2__content.md
+✓ Created course-specific file: _posts/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_IPYNB_2__csp.md
+
+Processing multi-course file: _posts/Foundation/G-sprints/2025-08-13-sprints_home.md
+✓ Created content file: _posts/Foundation/G-sprints/2025-08-13-sprints_home_content.md
+✓ Created course-specific file: _posts/Foundation/G-sprints/2025-08-13-sprints_home_csse.md
+✓ Created course-specific file: _posts/Foundation/G-sprints/2025-08-13-sprints_home_csp.md
+✓ Created course-specific file: _posts/Foundation/G-sprints/2025-08-13-sprints_home_csa.md
+
+Processing multi-course file: _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice.md
+✓ Created content file: _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice_content.md
+✓ Created course-specific file: _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice_csse.md
+✓ Created course-specific file: _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice_csp.md
+✓ Created course-specific file: _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice_csa.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2026-08-02-game-runner.md
+✓ Created content file: _posts/Foundation/C-github_pages/2026-08-02-game-runner_content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-game-runner_csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-game-runner_csp.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-game-runner_csa.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples.md
+✓ Created content file: _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples_content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples_csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples_csp.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples_csa.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2025-12-30-about-builder-lesson_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/C-github_pages/2025-12-30-about-builder-lesson_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2025-12-30-about-builder-lesson_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2025-12-30-about-builder-lesson_IPYNB_2__csp.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples.md
+✓ Created content file: _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples_content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples_csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples_csp.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples_csa.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro.md
+✓ Created content file: _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro_content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro_csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro_csp.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro_csa.md
+
+Processing multi-course file: _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2_.md
+✓ Created content file: _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2__content.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2__csse.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2__csp.md
+✓ Created course-specific file: _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2__csa.md
+
+Processing multi-course file: _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home.md
+✓ Created content file: _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home_content.md
+✓ Created course-specific file: _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home_csse.md
+✓ Created course-specific file: _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home_csp.md
+✓ Created course-specific file: _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home_csa.md
+
+Processing multi-course file: _posts/projects/flask/docs/2026-10-16-flask-infograph.md
+✓ Created content file: _posts/projects/flask/docs/2026-10-16-flask-infograph_content.md
+✓ Created course-specific file: _posts/projects/flask/docs/2026-10-16-flask-infograph_csp.md
+✓ Created course-specific file: _posts/projects/flask/docs/2026-10-16-flask-infograph_csa.md
+
+Processing multi-course file: _notebooks/Foundation/2026-07-22-Introduction-to-JavaScript.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2026-07-22-Introduction-to-JavaScript_csse.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2026-07-22-Introduction-to-JavaScript_csp.ipynb
+
+Processing multi-course file: _notebooks/Foundation/2025-08-22-sprint1_.objectives.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2025-08-22-sprint1_.objectives_csse.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2025-08-22-sprint1_.objectives_csp.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2025-08-22-sprint1_.objectives_csa.ipynb
+✓ Created course-specific file: _notebooks/Foundation/2025-08-22-sprint1_.objectives_csh.ipynb
+
+Processing multi-course file: _notebooks/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor.ipynb
+✓ Created course-specific file: _notebooks/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_csse.ipynb
+✓ Created course-specific file: _notebooks/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_csp.ipynb
+
+Processing multi-course file: _notebooks/Foundation/C-github_pages/2025-12-27-code-runner.ipynb
+✓ Created course-specific file: _notebooks/Foundation/C-github_pages/2025-12-27-code-runner_csse.ipynb
+✓ Created course-specific file: _notebooks/Foundation/C-github_pages/2025-12-27-code-runner_csp.ipynb
+✓ Created course-specific file: _notebooks/Foundation/C-github_pages/2025-12-27-code-runner_csa.ipynb
+
+Processing multi-course file: _notebooks/Foundation/C-github_pages/2025-12-30-about-builder-lesson.ipynb
+✓ Created course-specific file: _notebooks/Foundation/C-github_pages/2025-12-30-about-builder-lesson_csse.ipynb
+✓ Created course-specific file: _notebooks/Foundation/C-github_pages/2025-12-30-about-builder-lesson_csp.ipynb
+
+✅ Successfully processed 20 multi-course files:
+   - _posts/Foundation/2026-07-22-Introduction-to-JavaScript_IPYNB_2_.md
+   - _posts/Foundation/2026-09-08-sprint2_plan_IPYNB_2_.md
+   - _posts/Foundation/2025-08-22-sprint1_.objectives_IPYNB_2_.md
+   - _posts/Foundation/2026-09-08-lesson_calendar_IPYNB_2_.md
+   - _posts/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor_IPYNB_2_.md
+   - _posts/Foundation/G-sprints/2025-08-13-sprints_home.md
+   - _posts/Foundation/A-agile_classroom/2025-04-15-agile_methodologies_practice.md
+   - _posts/Foundation/C-github_pages/2026-08-02-game-runner.md
+   - _posts/Foundation/C-github_pages/2026-08-02-ui-runner-examples.md
+   - _posts/Foundation/C-github_pages/2025-12-30-about-builder-lesson_IPYNB_2_.md
+   - _posts/Foundation/C-github_pages/2026-08-03-code-runner-examples.md
+   - _posts/Foundation/C-github_pages/2023-08-23-github_pages-intro.md
+   - _posts/Foundation/C-github_pages/2025-12-27-code-runner_IPYNB_2_.md
+   - _posts/Foundation/B-tools_and_equipment/2025-04-15-tools_home.md
+   - _posts/projects/flask/docs/2026-10-16-flask-infograph.md
+   - _notebooks/Foundation/2026-07-22-Introduction-to-JavaScript.ipynb
+   - _notebooks/Foundation/2025-08-22-sprint1_.objectives.ipynb
+   - _notebooks/CSSE/GameEngine/engine_essentials/2026-02-18-variables_instructor.ipynb
+   - _notebooks/Foundation/C-github_pages/2025-12-27-code-runner.ipynb
+   - _notebooks/Foundation/C-github_pages/2025-12-30-about-builder-lesson.ipynb
+Docs: games/astronaut-platformer-game
+📚 Publishing astronaut-platformer-game documentation...
+✓ Documentation published to _posts/projects/astronaut-platformer-game/
+Docs: games/castle-game
+📚 Publishing castle-game documentation...
+✓ Documentation published to _posts/projects/castle-game/
+Docs: games/cs-pathway
+📚 Publishing cs-pathway documentation...
+✓ Documentation published to _posts/projects/cs-pathway/
+Docs: games/escape-the-tower
+Docs: games/gamify
+📚 Publishing gamify documentation...
+✓ Documentation published to _posts/projects/gamify/
+Docs: games/heist-exe
+Docs: games/kirby-minigames
+📚 Publishing kirby-minigames documentation...
+✓ Documentation published to _posts/projects/kirby-minigames/
+Docs: games/mansionGame
+📚 Publishing mansionGame documentation...
+✓ Documentation published to _posts/projects/mansionGame/
+Docs: games/nod-game
+📚 Publishing nod-game documentation...
+✓ Documentation published to _posts/projects/nod-game/
+Docs: games/pirate-hunt
+📚 Publishing pirate-hunt documentation...
+✓ Documentation published to _posts/projects/pirate-hunt/
+Docs: games/platformer
+Docs: games/red-riding
+📚 Publishing red-riding documentation...
+✓ Documentation published to _posts/projects/red-riding/
+Docs: games/spline-barriers
+Docs: games/tag-game-multiplayer
+Docs: games/voidstriker
+📚 Publishing voidstriker documentation...
+✓ Documentation published to _posts/projects/voidstriker/
+Docs: games/racing-game
+📚 Publishing racing-game documentation...
+✓ Documentation published to _posts/projects/racing-game/
+Docs: lessons/ap-frq-simulator
+Docs: lessons/cpt-concepts
+Docs: lessons/flask
+Docs: lessons/game-lessons
+📚 Publishing game-lessons documentation...
+✓ Documentation published to _posts/projects/game-lessons/
+Docs: lessons/parallelAndComputinglesson
+Docs: lessons/robot-logic-game
+📚 Publishing robot-logic-game documentation...
+✓ Documentation published to _posts/projects/robot-logic-game/
+Docs: lessons/sass
+📚 Publishing sass documentation...
+✓ Documentation published to _posts/projects/sass/
+Docs: lessons/python
+📚 Publishing python documentation...
+✓ Documentation published to _posts/projects/python/
+Docs: lessons/javascript
+📚 Publishing javascript documentation...
+✓ Documentation published to _posts/projects/javascript/
+Docs: lessons/java
+📚 Publishing java documentation...
+✓ Documentation published to _posts/projects/java/
+Docs: lessons/cs112
+📚 Publishing cs112 documentation...
+✓ Documentation published to _posts/projects/cs112/
+Docs: lessons/cs113
+📚 Publishing cs113 documentation...
+✓ Documentation published to _posts/projects/cs113/
+Docs: lessons/csa1
+📚 Publishing csa1 documentation...
+✓ Documentation published to _posts/projects/csa1/
+Docs: lessons/csa2
+📚 Publishing csa2 documentation...
+✓ Documentation published to _posts/projects/csa2/
+Docs: lessons/ds2
+Docs: systems/ai-ab-engine
+📚 Publishing ai-ab-engine documentation...
+✓ Documentation published to _posts/projects/ai-ab-engine/
+Docs: systems/calendar
+📚 Publishing calendar documentation...
+✓ Documentation published to _posts/projects/calendar/
+Docs: systems/blogs
+📚 Publishing blogs documentation...
+✓ Documentation published to _posts/projects/blogs/
+Docs: systems/topics
+📚 Publishing topics documentation...
+✓ Documentation published to _posts/projects/topics/
+Docs: systems/courses
+📚 Publishing courses documentation...
+✓ Documentation published to _posts/projects/courses/
+Docs: systems/gamebuilder
+📚 Publishing gamebuilder documentation...
+✓ Documentation published to _posts/projects/gamebuilder/
+Docs: systems/auto-generator
+📚 Publishing auto-generator documentation...
+✓ Documentation published to _posts/projects/auto-generator/
+Docs: systems/auto-generator-ui
+📚 Publishing auto-generator-ui documentation...
+✓ Documentation published to _posts/projects/auto-generator-ui/
+Docs: systems/scraper
+📚 Publishing scraper documentation...
+✓ Documentation published to _posts/projects/scraper/
+Docs: systems/student-management-groups
+📚 Publishing student-management-groups documentation...
+✓ Documentation published to _posts/projects/student-management-groups/
+Docs: systems/test-project
+📚 Publishing test-project documentation...
+✓ Documentation published to _posts/projects/test-project/
+Running `bundle install` with bundler 4.0.19
+Resolving dependencies because there's no lockfile
+HTTP GET https://index.rubygems.org/versions
+HTTP 206 Partial Content https://index.rubygems.org/versions
+Fetching gem metadata from https://rubygems.org/
+Looking up gems ["csv", "bigdecimal", "base64", "jekyll", "jekyll-theme-minima", "jekyll-remote-theme", "jekyll-include-cache", "kramdown-parser-gfm", "webrick", "execjs"]
+Looking up gems ["kramdown", "jekyll-mentions", "minima", "rubyzip", "typhoeus", "addressable", "jekyll-sass-converter", "openssl", "multi_json", "json", "stringio", "classifier", "directory_watcher", "liquid", "maruku", "open4", "RedCloth", "rdiscount", "albino", "pygments.rb", "commander", "safe_yaml", "colorator", "redcarpet", "listen", "toml", "jekyll-coffeescript", "mercenary", "sass", "jekyll-gist", "jekyll-paginate", "jekyll-watch", "classifier-reborn", "rouge", "pathutil", "em-websocket", "i18n", "terminal-table"]
+Looking up gems ["jekyll-seo-tag", "jekyll-feed", "rexml", "sassc", "sass-embedded", "concurrent-ruby", "html-pipeline", "activesupport", "rake", "rspec", "public_suffix", "ipaddr", "jruby-openssl", "syntax", "stemmer", "fast-stemmer", "mathn", "mutex_m", "matrix", "rack", "mime-types", "ffi", "ethon", "hoe", "strscan", "psych", "rubypython", "posix-spawn", "yajl-ruby", "logger", "highline", "parslet", "coffee-script", "coffee-script-source", "rb-fchange", "rb-fsevent", "rb-inotify", "rb-kqueue", "celluloid", "celluloid-io", "ruby_dep", "octokit", "eventmachine", "http_parser.rb", "forwardable-extended", "sass-listen", "racc", "unicode-display_width", "thor"]
+Looking up gems ["bundler", "escape_utils", "gemoji", "github-linguist", "github-markdown", "nokogiri", "rinku", "sanitize", "selma", "zeitwerk", "rspec-core", "rspec-expectations", "rspec-mocks", "functional-ruby", "ref", "bouncy-castle-java", "cmath", "builder", "memcache-client", "tzinfo", "minitest", "thread_safe", "method_source", "connection_pool", "drb", "securerandom", "benchmark", "uri", "mime-types-data", "google-protobuf", "blankslate", "jar-dependencies", "date", "rubyforge", "RubyInline", "gemcutter", "termios", "abbrev", "reline", "win32-api", "nio4r", "dotenv", "nenv", "rspec-logsplit", "timers", "facter", "celluloid-essentials", "celluloid-extras", "celluloid-fsm", "celluloid-pool", "celluloid-supervision", "faraday", "faraday_middleware", "hashie", "multi_xml", "rash", "netrc", "sawyer", "unicode-emoji"]
+Looking up gems ["hpricot", "htmlentities", "crass", "nokogumbo", "rb_sys", "charlock_holmes", "rugged", "mini_mime", "cgi", "diff-lcs", "rspec-support", "ZenTest", "atomic", "ruby2_keywords", "weakling", "mini_portile", "mini_portile2", "pkg-config", "ruby_parser", "prism", "net-scp", "json_pure", "ruby-maven", "io-console", "test-unit", "dotenv-deployment", "hitimes", "celluloid-gems", "coveralls", "rubocop", "ffi-compiler", "CFPropertyList", "sys-admin", "win32console", "win32-dir", "windows-api", "windows-pr", "win32-security", "hocon", "sys-filesystem", "oauth2", "roauth", "multipart-post", "faraday-net_http", "faraday-excon", "faraday-net_http_persistent", "faraday-em_http", "faraday-em_synchrony", "faraday-httpclient", "faraday-patron", "faraday-rack", "faraday-multipart", "faraday-retry", "unicode-version", "uri_template"]
+Looking up gems ["rake-compiler-dock", "net-ftp", "net-ssh", "maven-tools", "ruby-maven-libs", "spruz", "ParseTree", "sexp_processor", "configuration", "mkrf", "power_assert", "colorize", "rest-client", "simplecov", "term-ansicolor", "tins", "win32ole", "win32-registry", "libxml-ruby", "nkf", "ffi-win32-extensions", "rainbow", "parser", "backports", "powerpack", "ruby-progressbar", "astrolabe", "parallel", "jaro_winkler", "rubocop-ast", "regexp_parser", "language_server-protocol", "lint_roller", "tsort", "mcp", "mkmf-lite", "excon", "faraday-middleware", "httpauth", "jwt", "rash_alt", "version_gem", "snaky_hash", "auth-sanitizer", "anonymous_loader", "net-http", "net-http-persistent", "em-http-request", "httpclient", "patron"]
+Looking up gems ["net-protocol", "time", "virtus", "SexpProcessor", "needle", "jruby-pageant", "bcrypt_pbkdf", "rbnacl", "rbnacl-libsodium", "pattern-match", "mize", "simplecov-html", "docile", "lockfile", "simplecov_json_formatter", "fiddle", "rdoc", "http-cookie", "http-accept", "sync", "readline", "irb", "ast", "slop", "json_rpc_handler", "json-schema", "json_schemer", "ptools", "memoist", "em-socksify", "cookiejar"]
+Looking up gems ["io-wait", "timeout", "descendants_tracker", "axiom-types", "coercible", "equalizer", "protocol", "domain_name", "sqlite3", "erb", "rbs", "pp", "win32-file", "ecma-re-validator", "hana", "rdf", "simpleidn"]
+Looking up gems ["ice_nine", "adamantium", "unf", "prettyprint", "win32-file-stat", "link_header", "hamster", "bcp47_spec", "ostruct"]
+Looking up gems ["memoizable", "unf_ext"]
+Resolving dependencies...
+Using json 3.1.0
+Using connection_pool 3.0.2
+Using drb 2.2.3
+Using i18n 1.15.2
+Using logger 1.7.0
+Using minitest 6.0.6
+Using securerandom 0.4.1
+Using tzinfo 2.0.6
+Using uri 1.1.2
+Using activesupport 8.1.4
+4:  connection_pool (3.0.2) from /Users/samanviyachareni/.local/gems/specifications/connection_pool-3.0.2.gemspec
+Using prism 1.9.0
+4:  prism (1.9.0) from /Users/samanviyachareni/.local/gems/specifications/prism-1.9.0.gemspec
+Using eventmachine 1.2.7
+4:  eventmachine (1.2.7) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/eventmachine-1.2.7.gemspec
+Using http_parser.rb 0.8.1
+4:  http_parser.rb (0.8.1) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/http_parser.rb-0.8.1.gemspec
+Using racc 1.8.1
+4:  racc (1.8.1) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/racc-1.8.1.gemspec
+Using openssl 4.0.2
+4:  openssl (4.0.2) from /Users/samanviyachareni/.local/gems/specifications/openssl-4.0.2.gemspec
+Using bigdecimal 4.1.3
+4:  bigdecimal (4.1.3) from /Users/samanviyachareni/.local/gems/specifications/bigdecimal-4.1.3.gemspec
+Using public_suffix 7.0.5
+4:  public_suffix (7.0.5) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/public_suffix-7.0.5.gemspec
+Using addressable 2.9.0
+4:  addressable (2.9.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/addressable-2.9.0.gemspec
+Using bundler 4.0.19
+4:  bundler (4.0.19) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/bundler-4.0.19.gemspec
+Using colorator 1.1.0
+4:  colorator (1.1.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/colorator-1.1.0.gemspec
+8:  minitest (6.0.6) from /Users/samanviyachareni/.local/gems/specifications/minitest-6.0.6.gemspec
+Using em-websocket 0.5.3
+Using csv 3.3.6
+8:  em-websocket (0.5.3) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/em-websocket-0.5.3.gemspec
+Using execjs 2.10.2
+8:  execjs (2.10.2) from /Users/samanviyachareni/.local/gems/specifications/execjs-2.10.2.gemspec
+Using ffi 1.17.4 (arm64-darwin)
+8:  ffi (1.17.4) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/ffi-1.17.4-arm64-darwin.gemspec
+Using forwardable-extended 2.6.0
+8:  forwardable-extended (2.6.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/forwardable-extended-2.6.0.gemspec
+Using nokogiri 1.19.4 (arm64-darwin)
+8:  nokogiri (1.19.4) from /Users/samanviyachareni/.local/gems/specifications/nokogiri-1.19.4-arm64-darwin.gemspec
+Using html-pipeline 2.14.3
+8:  html-pipeline (2.14.3) from /Users/samanviyachareni/.local/gems/specifications/html-pipeline-2.14.3.gemspec
+Using rb-fsevent 0.11.2
+8:  rb-fsevent (0.11.2) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/rb-fsevent-0.11.2.gemspec
+Using rb-inotify 0.11.1
+8:  rb-inotify (0.11.1) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/rb-inotify-0.11.1.gemspec
+Using sass-listen 4.0.0
+8:  sass-listen (4.0.0) from /Users/samanviyachareni/.local/gems/specifications/sass-listen-4.0.0.gemspec
+Using sass 3.7.4
+8:  sass (3.7.4) from /Users/samanviyachareni/.local/gems/specifications/sass-3.7.4.gemspec
+Using jekyll-sass-converter 1.5.2
+8:  jekyll-sass-converter (1.5.2) from /Users/samanviyachareni/.local/gems/specifications/jekyll-sass-converter-1.5.2.gemspec
+Using listen 3.10.1
+8:  listen (3.10.1) from /Users/samanviyachareni/.local/gems/specifications/listen-3.10.1.gemspec
+Using jekyll-watch 2.2.1
+8:  jekyll-watch (2.2.1) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/jekyll-watch-2.2.1.gemspec
+Using rexml 3.4.4
+8:  rexml (3.4.4) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/rexml-3.4.4.gemspec
+Using kramdown 2.5.2
+8:  kramdown (2.5.2) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/kramdown-2.5.2.gemspec
+Using liquid 4.0.4
+8:  liquid (4.0.4) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/liquid-4.0.4.gemspec
+Using mercenary 0.3.6
+8:  mercenary (0.3.6) from /Users/samanviyachareni/.local/gems/specifications/mercenary-0.3.6.gemspec
+Using pathutil 0.16.2
+8:  pathutil (0.16.2) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/pathutil-0.16.2.gemspec
+Using rouge 3.30.0
+8:  rouge (3.30.0) from /Users/samanviyachareni/.local/gems/specifications/rouge-3.30.0.gemspec
+Using safe_yaml 1.0.5
+8:  safe_yaml (1.0.5) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/safe_yaml-1.0.5.gemspec
+Using jekyll 3.9.5
+8:  jekyll (3.9.5) from /Users/samanviyachareni/.local/gems/specifications/jekyll-3.9.5.gemspec
+Using jekyll-feed 0.18.0
+8:  jekyll-feed (0.18.0) from /Users/samanviyachareni/.local/gems/specifications/jekyll-feed-0.18.0.gemspec
+Using jekyll-include-cache 0.3.1
+8:  jekyll-include-cache (0.3.1) from /Users/samanviyachareni/.local/gems/specifications/jekyll-include-cache-0.3.1.gemspec
+Using jekyll-mentions 1.6.0
+8:  jekyll-mentions (1.6.0) from /Users/samanviyachareni/.local/gems/specifications/jekyll-mentions-1.6.0.gemspec
+Using rubyzip 3.7.0
+8:  rubyzip (3.7.0) from /Users/samanviyachareni/.local/gems/specifications/rubyzip-3.7.0.gemspec
+Using jekyll-remote-theme 0.6.2
+8:  jekyll-remote-theme (0.6.2) from /Users/samanviyachareni/.local/gems/specifications/jekyll-remote-theme-0.6.2.gemspec
+Using jekyll-seo-tag 2.9.1
+8:  jekyll-seo-tag (2.9.1) from /Users/samanviyachareni/.local/gems/specifications/jekyll-seo-tag-2.9.1.gemspec
+Using minima 2.5.2
+8:  minima (2.5.2) from /Users/samanviyachareni/.local/gems/specifications/minima-2.5.2.gemspec
+Using kramdown-parser-gfm 1.1.0
+8:  kramdown-parser-gfm (1.1.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/kramdown-parser-gfm-1.1.0.gemspec
+Using webrick 1.9.2
+8:  webrick (1.9.2) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/webrick-1.9.2.gemspec
+Using base64 0.3.0
+8:  base64 (0.3.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/base64-0.3.0.gemspec
+Using concurrent-ruby 1.3.8
+8:  concurrent-ruby (1.3.8) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/concurrent-ruby-1.3.8.gemspec
+Using jekyll-theme-minima 0.1.1
+8:  jekyll-theme-minima (0.1.1) from /Users/samanviyachareni/.local/gems/specifications/jekyll-theme-minima-0.1.1.gemspec
+3:  json (3.1.0) from /Users/samanviyachareni/.local/gems/specifications/json-3.1.0.gemspec
+5:  drb (2.2.3) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/drb-2.2.3.gemspec
+4:  csv (3.3.6) from /Users/samanviyachareni/.local/gems/specifications/csv-3.3.6.gemspec
+9:  securerandom (0.4.1) from /Users/samanviyachareni/.local/gems/specifications/securerandom-0.4.1.gemspec
+2:  activesupport (8.1.4) from /Users/samanviyachareni/.local/gems/specifications/activesupport-8.1.4.gemspec
+6:  i18n (1.15.2) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/i18n-1.15.2.gemspec
+1:  uri (1.1.2) from /Users/samanviyachareni/.local/gems/specifications/uri-1.1.2.gemspec
+0:  tzinfo (2.0.6) from /Users/samanviyachareni/.local/gems/specifications/tzinfo-2.0.6.gemspec
+7:  logger (1.7.0) from /opt/homebrew/lib/ruby/gems/4.0.0/specifications/logger-1.7.0.gemspec
+Bundle complete! 10 Gemfile dependencies, 53 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.
+Generating dynamic SASS imports...
+✅ Generated 6 SASS imports in _sass/projects/_all.scss
+   @import "calendar/main";
+   @import "courses/main";
+   @import "gamebuilder/main";
+   @import "racing-game/main";
+   @import "test-project/main";
+   @import "topics/main";
+Configuration file: /private/tmp/pnec-capstone-draft-pr/_config.yml
+           Cleaner: Nothing to do for /private/tmp/pnec-capstone-draft-pr/_site.
+           Cleaner: Nothing to do for /private/tmp/pnec-capstone-draft-pr/.jekyll-metadata.
+           Cleaner: Nothing to do for .sass-cache.
+Configuration file: /private/tmp/pnec-capstone-draft-pr/_config.yml
+            Source: /private/tmp/pnec-capstone-draft-pr
+       Destination: /private/tmp/pnec-capstone-draft-pr/_site
+ Incremental build: enabled
+      Generating... 
+      Remote Theme: Using theme jekyll/minima
+[33m       Deprecation: A call to '{% post_url 2026-09-08-oak-cancer-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-08-oak-cancer-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url capstone/2026-09-01-jarvis-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url capstone/2026-09-01-jarvis-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-greppers-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-greppers-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-oasis-community-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-oasis-community-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-06-kora-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-06-kora-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-13-pirna-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-13-pirna-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-powaynec-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-powaynec-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-06-hawkhub %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-02-06-hawkhub %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-doing-exceptional-deeds %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-doing-exceptional-deeds %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-05-acs-cancer-infograph %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-05-acs-cancer-infograph %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-poway-womans-club %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-poway-womans-club %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-05-uesl-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-05-uesl-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-deflock-sd %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-deflock-sd %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-08-sip-infograph %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-08-sip-infograph %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-sentri-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-04-sentri-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-integra-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-integra-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-poway-library %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-poway-library %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-dsa-website-redesign-blog %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-dsa-website-redesign-blog %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-dad-website-redesign-blog %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-dad-website-redesign-blog %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-rcr-poway-midland-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-rcr-poway-midland-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-pvo-redesign-infographic %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-06-pvo-redesign-infographic %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-04-15-sd-auto-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-04-15-sd-auto-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-friends-of-poway-seniors-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-09-friends-of-poway-seniors-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-fops-2026-2027-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-fops-2026-2027-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-sdrm-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-sdrm-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-11-pnec-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-11-pnec-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-08-Flask-and-Furious-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-03-08-Flask-and-Furious-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-08-ccae-escondido-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-08-ccae-escondido-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-sdlabrats-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-sdlabrats-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-poway-scripps-rotary-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-10-poway-scripps-rotary-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-11-shoreline-volunteer-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-11-shoreline-volunteer-capstone %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-goodbrain %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2026-09-09-goodbrain %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+                    done in 92.76 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
